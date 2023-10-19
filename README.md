@@ -18,5 +18,3 @@
 ## 📝 Notes
 
 - [`react-native-reanimated` docs](https://docs.swmansion.com/react-native-reanimated/)
-
-# ReactNativeLoginScreenUI

@@ -18,6 +18,7 @@
 ## 📝 Notes
 
 - [`react-native-reanimated` docs](https://docs.swmansion.com/react-native-reanimated/)
+- [`NativeBase` docs](https://www.nativewind.dev/quick-starts/expo)
 
 - React Native Navigation
 - Tailwind CSS

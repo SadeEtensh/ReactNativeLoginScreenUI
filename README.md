@@ -1,4 +1,4 @@
-# Reanimated example
+# React Native Login Screen with Reanimated
 
 <p>
   <!-- iOS -->
@@ -18,4 +18,5 @@
 ## 📝 Notes
 
 - [`react-native-reanimated` docs](https://docs.swmansion.com/react-native-reanimated/)
+
 # ReactNativeLoginScreenUI

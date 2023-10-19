@@ -24,8 +24,12 @@
 
 ## Login Screen
 
+- each componenets of UI is nicely animated using React native reaminated libray
+
 ![Alt text](<Screenshot 2023-10-19 at 9.16.23 at night.png>)
 
 ## SignUp Screen
+
+- each componenets of UI is nicely animated using React native reaminated libray
 
 ![Alt text](<Screenshot 2023-10-19 at 9.17.09 at night.png>)

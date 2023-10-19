@@ -18,3 +18,6 @@
 ## 📝 Notes
 
 - [`react-native-reanimated` docs](https://docs.swmansion.com/react-native-reanimated/)
+
+- React Native Navigation
+- Tailwind CSS

@@ -22,6 +22,7 @@
 
 - React Native Navigation
 - Tailwind CSS
+- React Native reanimated
 
 ## Login Screen
 

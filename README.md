@@ -21,3 +21,11 @@
 
 - React Native Navigation
 - Tailwind CSS
+
+## Login Screen
+
+![Alt text](<Screenshot 2023-10-19 at 9.16.23 at night.png>)
+
+## SignUp Screen
+
+![Alt text](<Screenshot 2023-10-19 at 9.17.09 at night.png>)
